@@ -5,9 +5,9 @@
       "type": "promo",
       "priority": 1,
       "title": "Spring Pro Unlock",
-      "message": "Get lifetime access to the Profile Engine for 50% off. Limited time offer.",
-      "cta_text": "Claim 50% Off",
-      "url": "https://evynignatious.gumroad.com/...",
+      "message": "Unlock the Profile Engine. Regular price $7 — limited launch price $5.",
+      "cta_text": "Unlock for $5",
+      "url": "https://evynignatious.gumroad.com/l/natively/EARLYADOPTER",
       "icon": "sparkles",
       "targeting": {
         "os": "mac",
