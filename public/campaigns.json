@@ -10,7 +10,7 @@
       "url": "https://evynignatious.gumroad.com/l/natively/EARLYADOPTER",
       "icon": "sparkles",
       "targeting": {
-        "os": "mac",
+        "os": "all",
         "requires_premium": false
       },
       "expires_at": "2026-12-31T23:59:59Z"
