@@ -1,0 +1,19 @@
+{
+  "active_campaigns": [
+    {
+      "id": "spring-sale-2026",
+      "type": "promo",
+      "priority": 1,
+      "title": "Spring Pro Unlock",
+      "message": "Get lifetime access to the Profile Engine for 50% off. Limited time offer.",
+      "cta_text": "Claim 50% Off",
+      "url": "https://evynignatious.gumroad.com/...",
+      "icon": "sparkles",
+      "targeting": {
+        "os": "mac",
+        "requires_premium": false
+      },
+      "expires_at": "2026-12-31T23:59:59Z"
+    }
+  ]
+}
