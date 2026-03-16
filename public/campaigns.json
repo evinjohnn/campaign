@@ -5,9 +5,9 @@
       "type": "promo",
       "priority": 1,
       "title": "Natively Pro",
-      "message": "Unlock the Profile Engine. Regular price $10 — limited launch price $5.",
-      "cta_text": "Unlock for $5",
-      "url": "https://evynignatious.gumroad.com/l/natively/EARLYADOPTER",
+      "message": "Early adopter price is gone. Use code SAVE30 and get it for $7 — regular price is $10.",
+      "cta_text": "Unlock for $7",
+      "url": "https://evynignatious.gumroad.com/l/natively/SAVE30",
       "icon": "sparkles",
       "targeting": {
         "os": "all",
